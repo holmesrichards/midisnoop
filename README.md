@@ -27,6 +27,8 @@ Change symbol definitions as needed:
 
 <img src="./Images/midisnoop.jpg" alt="Breadboard photo" width="800">
 <img src="./Images/midisnoop_sch.png" alt="schematic" width="800">
+
 [Hi res schematic (PDF)](./Docs/midisnoop.pdf) 
+
 [Arduino sketch](./Software/midisnoop/midisnoop.ino) 
 
