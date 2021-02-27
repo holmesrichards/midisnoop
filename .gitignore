@@ -1,0 +1,17 @@
+fp-info-cache
+*bak
+*cache*
+Narrow
+*~
+*.bck
+*.zip
+*.DS_Store
+*~
+.gitignore-extra
+*.svg
+*.dsn
+*.kicad_prl
+*.kicad_pro
+*.rules
+*.ses
+midisnoop
