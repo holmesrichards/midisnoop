@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC096GX
+D 128*64 monochrome I2C OLED module
+$ENDCMP
+#
+$CMP Synth_power_2x5
+D 2x5 shrouded 2.54mm pin header
+$ENDCMP
+#
+#End Doc Library
